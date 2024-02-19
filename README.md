@@ -305,7 +305,7 @@ blockchain.
 Requires [Go 1.11](https://golang.org/dl/) or later to install with `go get`
 
 ```sh
-go get github.com/hyperledger/firefly-ethconnect
+go install github.com/hyperledger/firefly-ethconnect@latest
 ```
 
 ## Development environment
